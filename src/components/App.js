@@ -6,6 +6,9 @@ import Menu from "./Menu";
 import NavBar from "./NavBar";
 
 export default function App() {
+  const [meals, setMeals] = useState([]);
+  const [ingredients, setIngredients] = useState([]);
+
   const [showCreateMeal, setShowCreateMeal] = useState(true);
   const [showCalendar, setShowCalendar] = useState(false);
   const [showGroceryList, setShowGroceryList] = useState(false);
