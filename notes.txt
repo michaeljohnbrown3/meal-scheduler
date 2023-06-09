@@ -1,0 +1,9 @@
+App goals: create a drag and drop scheduler that places meals onto a weekly calendar. Meals placed on the schedule will compile a list of ingredients, which in turn will create a shopping list.
+
+Create meal: user can create meals and input ingredients
+
+Week: you can designate a shopping day and your week will start there
+
+Day: includes # of meals toggle
+
+Future functionality: users will log in, meals will be stored, ingredients will be listed by aisle and sorted to make shopping quicker, add in custom items
